@@ -3,6 +3,7 @@
 Another forensics CTF...
 
 The first clue is an image.. specifically https://raw.githubusercontent.com/ctfs/write-ups-2015/master/insomni-hack-ctf-2015/forensic/zoom-in/zoomIn_3a3f6e35934021eca75b0abde70333a6.jpg
+
 So the first thing we do is use wget to download it
 Then let's run all our basic tools on it.
 
