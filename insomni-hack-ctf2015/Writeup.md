@@ -10,9 +10,9 @@ Then let's run all our basic tools on it.
 Its an image so we can:
 <li> Check it's metadata </li>
 <li> Use binwalk(or a hexeditor) to go through it's hexdump for multiple headers </li>
-  
-Depending on which path you choose
-
+<br>
+Depending on which path you choose:
+<br>
 <li> You check it's metadata.. find a thumbnail embedded and extract it using `exiftool -binary -ThumbnailImage` and redirecting the STDOUT to another jpg file. This file will in turn consist of ANOTHER thumbnail which can be extracted the same way </li>
 <li> Using binwalk and scalpel you can extract the files by uncommenting and adding the filetypes into the scalpel configuration file</li>
 
