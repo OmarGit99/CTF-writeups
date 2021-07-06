@@ -21,11 +21,15 @@ c = m**e mod n
 Also we can use RSActftool to decrypt using the given values
 
 The values given in this problem were:
+
 e(public exponent): 1
+
 c(ciphertext):9327565722767258308650643213344542404592011161659991421
+
 n(modulus): 245841236512478852752909734912575581815967630033049838269083
 
 using it with the tool we get the output:
+
 b3tter_up_y0ur_e
 
 which on entering gives us the correct result
