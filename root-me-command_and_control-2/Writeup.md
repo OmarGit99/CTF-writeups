@@ -26,3 +26,9 @@ Now all you have to do is printkey -K it to find the computer name!
 *Red Herring*
 
 Using hashdump will give you a couple of users and passwords however they dont do anything to solve the challenge
+
+
+Level-3 
+
+For this level all you had to do was check the hashdump of the memory source and use an md5 de-hasher
+
